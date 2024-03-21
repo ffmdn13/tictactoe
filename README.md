@@ -1,5 +1,2 @@
-# tictactoe
-Test hello world
-
-hello world hello world ## hello world # hello world
-### hello world
+# TICTACTOE
+this is my first game project that i have been working on for 3 weeks
